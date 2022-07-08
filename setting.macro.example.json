@@ -1,0 +1,30 @@
+{
+    "howDo": "all or tor or proxy",
+    "proxyType": "SOCKS or HTTP",
+
+    "songsToRecommend": [
+        {
+            "songType":1,
+            "songTitle": "사랑인가봐(사내맞선OST)",
+            "singer": "멜로망스"
+        },
+
+        {
+            "songType":2,
+            "songTitle": "Let It Go(Frozen(겨울왕국) OST)",
+            "singer": "Idina Menzel"
+        },
+
+        {
+            "songType":3,
+            "songTitle": "Lemon(ドラマ'アンナチュラル' OST)",
+            "singer": "米津玄師"
+        },
+
+        {
+            "songType":4,
+            "songTitle": "朋友",
+            "singer": "周华健"
+        }
+    ]
+}
