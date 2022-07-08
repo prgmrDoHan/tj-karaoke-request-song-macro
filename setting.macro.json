@@ -1,12 +1,3 @@
 {
-    "howDo": "all",
-    "proxyType": "SOCKS",
 
-    "songsToRecommend": [
-        {
-            "songType":3,
-            "songTitle": "ヴァンパイア (뱀파이어)",
-            "singer": "初音ミク (하츠네 미쿠)"
-        }
-    ]
 }
